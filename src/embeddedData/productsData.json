@@ -1,0 +1,4312 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash Princess",
+      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+      "category": "beauty",
+      "price": 9.99,
+      "discountPercentage": 10.48,
+      "rating": 2.56,
+      "stock": 99,
+      "tags": ["beauty", "mascara"],
+      "brand": "Essence",
+      "sku": "BEA-ESS-ESS-001",
+      "weight": 4,
+      "dimensions": {
+        "width": 15.14,
+        "height": 13.08,
+        "depth": 22.99
+      },
+      "warrantyInformation": "1 week warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Would not recommend!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Eleanor Collins",
+          "reviewerEmail": "eleanor.collins@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Lucas Gordon",
+          "reviewerEmail": "lucas.gordon@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Eleanor Collins",
+          "reviewerEmail": "eleanor.collins@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 48,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5784719087687",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
+    },
+    {
+      "id": 2,
+      "title": "Eyeshadow Palette with Mirror",
+      "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+      "category": "beauty",
+      "price": 19.99,
+      "discountPercentage": 18.19,
+      "rating": 2.86,
+      "stock": 34,
+      "tags": ["beauty", "eyeshadow"],
+      "brand": "Glamour Beauty",
+      "sku": "BEA-GLA-EYE-002",
+      "weight": 9,
+      "dimensions": {
+        "width": 9.26,
+        "height": 22.47,
+        "depth": 27.67
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Savannah Gomez",
+          "reviewerEmail": "savannah.gomez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Awesome product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Christian Perez",
+          "reviewerEmail": "christian.perez@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Nicholas Bailey",
+          "reviewerEmail": "nicholas.bailey@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 20,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9170275171413",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp"
+    },
+    {
+      "id": 3,
+      "title": "Powder Canister",
+      "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+      "category": "beauty",
+      "price": 14.99,
+      "discountPercentage": 9.84,
+      "rating": 4.64,
+      "stock": 89,
+      "tags": ["beauty", "face powder"],
+      "brand": "Velvet Touch",
+      "sku": "BEA-VEL-POW-003",
+      "weight": 8,
+      "dimensions": {
+        "width": 29.27,
+        "height": 27.93,
+        "depth": 20.59
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alexander Jones",
+          "reviewerEmail": "alexander.jones@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Elijah Cruz",
+          "reviewerEmail": "elijah.cruz@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very dissatisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Avery Perez",
+          "reviewerEmail": "avery.perez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8418883906837",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp"
+    },
+    {
+      "id": 4,
+      "title": "Red Lipstick",
+      "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+      "category": "beauty",
+      "price": 12.99,
+      "discountPercentage": 12.16,
+      "rating": 4.36,
+      "stock": 91,
+      "tags": ["beauty", "lipstick"],
+      "brand": "Chic Cosmetics",
+      "sku": "BEA-CHI-LIP-004",
+      "weight": 1,
+      "dimensions": {
+        "width": 18.11,
+        "height": 28.38,
+        "depth": 22.17
+      },
+      "warrantyInformation": "3 year warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Liam Garcia",
+          "reviewerEmail": "liam.garcia@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ruby Andrews",
+          "reviewerEmail": "ruby.andrews@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Clara Berry",
+          "reviewerEmail": "clara.berry@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 40,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9467746727219",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp"
+    },
+    {
+      "id": 5,
+      "title": "Red Nail Polish",
+      "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+      "category": "beauty",
+      "price": 8.99,
+      "discountPercentage": 11.44,
+      "rating": 4.32,
+      "stock": 79,
+      "tags": ["beauty", "nail polish"],
+      "brand": "Nail Couture",
+      "sku": "BEA-NAI-NAI-005",
+      "weight": 8,
+      "dimensions": {
+        "width": 21.63,
+        "height": 16.48,
+        "depth": 29.84
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Benjamin Wilson",
+          "reviewerEmail": "benjamin.wilson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Liam Smith",
+          "reviewerEmail": "liam.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Clara Berry",
+          "reviewerEmail": "clara.berry@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "4063010628104",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp"
+    },
+    {
+      "id": 6,
+      "title": "Calvin Klein CK One",
+      "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+      "category": "fragrances",
+      "price": 49.99,
+      "discountPercentage": 1.89,
+      "rating": 4.37,
+      "stock": 29,
+      "tags": ["fragrances", "perfumes"],
+      "brand": "Calvin Klein",
+      "sku": "FRA-CAL-CAL-006",
+      "weight": 7,
+      "dimensions": {
+        "width": 29.36,
+        "height": 27.76,
+        "depth": 20.72
+      },
+      "warrantyInformation": "1 week warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Very disappointed!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Layla Young",
+          "reviewerEmail": "layla.young@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Daniel Cook",
+          "reviewerEmail": "daniel.cook@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not as described!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jacob Cooper",
+          "reviewerEmail": "jacob.cooper@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 9,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "2451534060749",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/3.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp"
+    },
+    {
+      "id": 7,
+      "title": "Chanel Coco Noir Eau De",
+      "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+      "category": "fragrances",
+      "price": 129.99,
+      "discountPercentage": 16.51,
+      "rating": 4.26,
+      "stock": 58,
+      "tags": ["fragrances", "perfumes"],
+      "brand": "Chanel",
+      "sku": "FRA-CHA-CHA-007",
+      "weight": 7,
+      "dimensions": {
+        "width": 24.5,
+        "height": 25.7,
+        "depth": 25.98
+      },
+      "warrantyInformation": "3 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Highly impressed!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ruby Andrews",
+          "reviewerEmail": "ruby.andrews@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Awesome product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Leah Henderson",
+          "reviewerEmail": "leah.henderson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Xavier Wright",
+          "reviewerEmail": "xavier.wright@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "4091737746820",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/3.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp"
+    },
+    {
+      "id": 8,
+      "title": "Dior J'adore",
+      "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+      "category": "fragrances",
+      "price": 89.99,
+      "discountPercentage": 14.72,
+      "rating": 3.8,
+      "stock": 98,
+      "tags": ["fragrances", "perfumes"],
+      "brand": "Dior",
+      "sku": "FRA-DIO-DIO-008",
+      "weight": 4,
+      "dimensions": {
+        "width": 27.67,
+        "height": 28.28,
+        "depth": 11.83
+      },
+      "warrantyInformation": "1 week warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Nicholas Bailey",
+          "reviewerEmail": "nicholas.bailey@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great value for money!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Penelope Harper",
+          "reviewerEmail": "penelope.harper@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Emma Miller",
+          "reviewerEmail": "emma.miller@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 10,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "1445086097250",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/3.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp"
+    },
+    {
+      "id": 9,
+      "title": "Dolce Shine Eau de",
+      "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+      "category": "fragrances",
+      "price": 69.99,
+      "discountPercentage": 0.62,
+      "rating": 3.96,
+      "stock": 4,
+      "tags": ["fragrances", "perfumes"],
+      "brand": "Dolce & Gabbana",
+      "sku": "FRA-DOL-DOL-009",
+      "weight": 6,
+      "dimensions": {
+        "width": 27.28,
+        "height": 29.88,
+        "depth": 18.3
+      },
+      "warrantyInformation": "3 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Aurora Lawson",
+          "reviewerEmail": "aurora.lawson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "3023868210708",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/3.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp"
+    },
+    {
+      "id": 10,
+      "title": "Gucci Bloom Eau de",
+      "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+      "category": "fragrances",
+      "price": 79.99,
+      "discountPercentage": 14.39,
+      "rating": 2.74,
+      "stock": 91,
+      "tags": ["fragrances", "perfumes"],
+      "brand": "Gucci",
+      "sku": "FRA-GUC-GUC-010",
+      "weight": 7,
+      "dimensions": {
+        "width": 20.92,
+        "height": 21.68,
+        "depth": 11.2
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Very dissatisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Cameron Perez",
+          "reviewerEmail": "cameron.perez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Daniel Cook",
+          "reviewerEmail": "daniel.cook@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly impressed!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Addison Wright",
+          "reviewerEmail": "addison.wright@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "3170832177880",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/3.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp"
+    },
+    {
+      "id": 11,
+      "title": "Annibale Colombo Bed",
+      "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+      "category": "furniture",
+      "price": 1899.99,
+      "discountPercentage": 8.57,
+      "rating": 4.77,
+      "stock": 88,
+      "tags": ["furniture", "beds"],
+      "brand": "Annibale Colombo",
+      "sku": "FUR-ANN-ANN-011",
+      "weight": 10,
+      "dimensions": {
+        "width": 28.16,
+        "height": 25.36,
+        "depth": 17.28
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Would not recommend!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Christopher West",
+          "reviewerEmail": "christopher.west@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly impressed!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Vivian Carter",
+          "reviewerEmail": "vivian.carter@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mason Wright",
+          "reviewerEmail": "mason.wright@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "3610757456581",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/3.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp"
+    },
+    {
+      "id": 12,
+      "title": "Annibale Colombo Sofa",
+      "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+      "category": "furniture",
+      "price": 2499.99,
+      "discountPercentage": 14.4,
+      "rating": 3.92,
+      "stock": 60,
+      "tags": ["furniture", "sofas"],
+      "brand": "Annibale Colombo",
+      "sku": "FUR-ANN-ANN-012",
+      "weight": 6,
+      "dimensions": {
+        "width": 12.75,
+        "height": 20.55,
+        "depth": 19.06
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Christian Perez",
+          "reviewerEmail": "christian.perez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Lillian Bishop",
+          "reviewerEmail": "lillian.bishop@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Lillian Simmons",
+          "reviewerEmail": "lillian.simmons@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "1777662847736",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/3.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp"
+    },
+    {
+      "id": 13,
+      "title": "Bedside Table African Cherry",
+      "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+      "category": "furniture",
+      "price": 299.99,
+      "discountPercentage": 19.09,
+      "rating": 2.87,
+      "stock": 64,
+      "tags": ["furniture", "bedside tables"],
+      "brand": "Furniture Co.",
+      "sku": "FUR-FUR-BED-013",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.47,
+        "height": 24.99,
+        "depth": 27.35
+      },
+      "warrantyInformation": "5 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Aaliyah Hanson",
+          "reviewerEmail": "aaliyah.hanson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Liam Smith",
+          "reviewerEmail": "liam.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Avery Barnes",
+          "reviewerEmail": "avery.barnes@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 3,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "6441287925979",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/3.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp"
+    },
+    {
+      "id": 14,
+      "title": "Knoll Saarinen Executive Conference Chair",
+      "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+      "category": "furniture",
+      "price": 499.99,
+      "discountPercentage": 2.01,
+      "rating": 4.88,
+      "stock": 26,
+      "tags": ["furniture", "office chairs"],
+      "brand": "Knoll",
+      "sku": "FUR-KNO-KNO-014",
+      "weight": 10,
+      "dimensions": {
+        "width": 13.81,
+        "height": 7.5,
+        "depth": 5.62
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Waste of money!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ella Cook",
+          "reviewerEmail": "ella.cook@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Very dissatisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Clara Berry",
+          "reviewerEmail": "clara.berry@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Elena Long",
+          "reviewerEmail": "elena.long@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 5,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8919386859966",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/3.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp"
+    },
+    {
+      "id": 15,
+      "title": "Wooden Bathroom Sink With Mirror",
+      "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+      "category": "furniture",
+      "price": 799.99,
+      "discountPercentage": 8.8,
+      "rating": 3.59,
+      "stock": 7,
+      "tags": ["furniture", "bathroom"],
+      "brand": "Bath Trends",
+      "sku": "FUR-BAT-WOO-015",
+      "weight": 10,
+      "dimensions": {
+        "width": 7.98,
+        "height": 8.88,
+        "depth": 28.46
+      },
+      "warrantyInformation": "3 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Logan Torres",
+          "reviewerEmail": "logan.torres@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Aria Parker",
+          "reviewerEmail": "aria.parker@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Dylan Wells",
+          "reviewerEmail": "dylan.wells@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "1958104402873",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/3.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp"
+    },
+    {
+      "id": 16,
+      "title": "Apple",
+      "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+      "category": "groceries",
+      "price": 1.99,
+      "discountPercentage": 12.62,
+      "rating": 4.19,
+      "stock": 8,
+      "tags": ["fruits"],
+      "sku": "GRO-BRD-APP-016",
+      "weight": 9,
+      "dimensions": {
+        "width": 13.66,
+        "height": 11.01,
+        "depth": 9.73
+      },
+      "warrantyInformation": "3 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sophia Brown",
+          "reviewerEmail": "sophia.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very dissatisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Scarlett Bowman",
+          "reviewerEmail": "scarlett.bowman@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "William Gonzalez",
+          "reviewerEmail": "william.gonzalez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 7,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "7962803553314",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
+    },
+    {
+      "id": 17,
+      "title": "Beef Steak",
+      "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+      "category": "groceries",
+      "price": 12.99,
+      "discountPercentage": 9.61,
+      "rating": 4.47,
+      "stock": 86,
+      "tags": ["meat"],
+      "sku": "GRO-BRD-BEE-017",
+      "weight": 10,
+      "dimensions": {
+        "width": 18.9,
+        "height": 5.77,
+        "depth": 18.57
+      },
+      "warrantyInformation": "3 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Would not recommend!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Eleanor Tyler",
+          "reviewerEmail": "eleanor.tyler@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alexander Jones",
+          "reviewerEmail": "alexander.jones@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Natalie Harris",
+          "reviewerEmail": "natalie.harris@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 43,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5640063409695",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/beef-steak/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp"
+    },
+    {
+      "id": 18,
+      "title": "Cat Food",
+      "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+      "category": "groceries",
+      "price": 8.99,
+      "discountPercentage": 9.58,
+      "rating": 3.13,
+      "stock": 46,
+      "tags": ["pet supplies", "cat food"],
+      "sku": "GRO-BRD-FOO-018",
+      "weight": 10,
+      "dimensions": {
+        "width": 18.08,
+        "height": 9.26,
+        "depth": 21.86
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Would not recommend!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Noah Lewis",
+          "reviewerEmail": "noah.lewis@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ruby Andrews",
+          "reviewerEmail": "ruby.andrews@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Very disappointed!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ethan Thompson",
+          "reviewerEmail": "ethan.thompson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 18,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "1483991328610",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": ["meat"],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 20,
+      "title": "Cooking Oil",
+      "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+      "category": "groceries",
+      "price": 4.99,
+      "discountPercentage": 9.33,
+      "rating": 4.8,
+      "stock": 10,
+      "tags": ["cooking essentials"],
+      "sku": "GRO-BRD-COO-020",
+      "weight": 5,
+      "dimensions": {
+        "width": 19.95,
+        "height": 27.54,
+        "depth": 24.86
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Victoria McDonald",
+          "reviewerEmail": "victoria.mcdonald@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Would not recommend!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Hazel Evans",
+          "reviewerEmail": "hazel.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Zoe Bennett",
+          "reviewerEmail": "zoe.bennett@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 46,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "4874727824518",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp"
+    },
+    {
+      "id": 21,
+      "title": "Cucumber",
+      "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+      "category": "groceries",
+      "price": 1.49,
+      "discountPercentage": 0.16,
+      "rating": 4.07,
+      "stock": 84,
+      "tags": ["vegetables"],
+      "sku": "GRO-BRD-CUC-021",
+      "weight": 4,
+      "dimensions": {
+        "width": 12.8,
+        "height": 28.38,
+        "depth": 21.34
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Lincoln Kelly",
+          "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great value for money!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Savannah Gomez",
+          "reviewerEmail": "savannah.gomez@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "James Davis",
+          "reviewerEmail": "james.davis@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5300066378225",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cucumber/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp"
+    },
+    {
+      "id": 22,
+      "title": "Dog Food",
+      "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+      "category": "groceries",
+      "price": 10.99,
+      "discountPercentage": 10.27,
+      "rating": 4.55,
+      "stock": 71,
+      "tags": ["pet supplies", "dog food"],
+      "sku": "GRO-BRD-FOO-022",
+      "weight": 10,
+      "dimensions": {
+        "width": 16.93,
+        "height": 27.15,
+        "depth": 9.29
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Excellent quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Nicholas Edwards",
+          "reviewerEmail": "nicholas.edwards@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Awesome product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Zachary Lee",
+          "reviewerEmail": "zachary.lee@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Nova Cooper",
+          "reviewerEmail": "nova.cooper@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 43,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5906686116469",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/dog-food/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp"
+    },
+    {
+      "id": 23,
+      "title": "Eggs",
+      "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+      "category": "groceries",
+      "price": 2.99,
+      "discountPercentage": 11.05,
+      "rating": 2.53,
+      "stock": 9,
+      "tags": ["dairy"],
+      "sku": "GRO-BRD-EGG-023",
+      "weight": 2,
+      "dimensions": {
+        "width": 11.42,
+        "height": 7.44,
+        "depth": 16.95
+      },
+      "warrantyInformation": "1 week warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Penelope King",
+          "reviewerEmail": "penelope.king@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Eleanor Tyler",
+          "reviewerEmail": "eleanor.tyler@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Benjamin Foster",
+          "reviewerEmail": "benjamin.foster@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 32,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "3478638588469",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/eggs/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp"
+    },
+    {
+      "id": 24,
+      "title": "Fish Steak",
+      "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+      "category": "groceries",
+      "price": 14.99,
+      "discountPercentage": 4.23,
+      "rating": 3.78,
+      "stock": 74,
+      "tags": ["seafood"],
+      "sku": "GRO-BRD-FIS-024",
+      "weight": 6,
+      "dimensions": {
+        "width": 14.95,
+        "height": 26.31,
+        "depth": 11.27
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Would not buy again!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Caleb Perkins",
+          "reviewerEmail": "caleb.perkins@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Isabella Jackson",
+          "reviewerEmail": "isabella.jackson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great value for money!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Nathan Dixon",
+          "reviewerEmail": "nathan.dixon@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 50,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9595036192098",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/fish-steak/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp"
+    },
+    {
+      "id": 25,
+      "title": "Green Bell Pepper",
+      "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+      "category": "groceries",
+      "price": 1.29,
+      "discountPercentage": 0.16,
+      "rating": 3.25,
+      "stock": 33,
+      "tags": ["vegetables"],
+      "sku": "GRO-BRD-GRE-025",
+      "weight": 2,
+      "dimensions": {
+        "width": 15.33,
+        "height": 26.65,
+        "depth": 14.44
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Avery Carter",
+          "reviewerEmail": "avery.carter@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Would not recommend!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Henry Hill",
+          "reviewerEmail": "henry.hill@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Addison Wright",
+          "reviewerEmail": "addison.wright@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 12,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "2365227493323",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp"
+    },
+    {
+      "id": 26,
+      "title": "Green Chili Pepper",
+      "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+      "category": "groceries",
+      "price": 0.99,
+      "discountPercentage": 1,
+      "rating": 3.66,
+      "stock": 3,
+      "tags": ["vegetables"],
+      "sku": "GRO-BRD-GRE-026",
+      "weight": 7,
+      "dimensions": {
+        "width": 15.38,
+        "height": 18.12,
+        "depth": 19.92
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Luna Russell",
+          "reviewerEmail": "luna.russell@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Waste of money!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Noah Lewis",
+          "reviewerEmail": "noah.lewis@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Very disappointed!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Clara Berry",
+          "reviewerEmail": "clara.berry@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 39,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9335000538563",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp"
+    },
+    {
+      "id": 27,
+      "title": "Honey Jar",
+      "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+      "category": "groceries",
+      "price": 6.99,
+      "discountPercentage": 14.4,
+      "rating": 3.97,
+      "stock": 34,
+      "tags": ["condiments"],
+      "sku": "GRO-BRD-HON-027",
+      "weight": 2,
+      "dimensions": {
+        "width": 9.28,
+        "height": 21.72,
+        "depth": 17.74
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Very disappointed!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Autumn Gomez",
+          "reviewerEmail": "autumn.gomez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly impressed!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Benjamin Wilson",
+          "reviewerEmail": "benjamin.wilson@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Very disappointed!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Nicholas Edwards",
+          "reviewerEmail": "nicholas.edwards@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 47,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "6354306346329",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp"
+    },
+    {
+      "id": 28,
+      "title": "Ice Cream",
+      "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+      "category": "groceries",
+      "price": 5.49,
+      "discountPercentage": 8.69,
+      "rating": 3.39,
+      "stock": 27,
+      "tags": ["desserts"],
+      "sku": "GRO-BRD-CRE-028",
+      "weight": 1,
+      "dimensions": {
+        "width": 14.83,
+        "height": 15.07,
+        "depth": 24.2
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Elijah Cruz",
+          "reviewerEmail": "elijah.cruz@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jace Smith",
+          "reviewerEmail": "jace.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 42,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "0788954559076",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/2.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/3.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/4.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/thumbnail.webp"
+    },
+    {
+      "id": 29,
+      "title": "Juice",
+      "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+      "category": "groceries",
+      "price": 3.99,
+      "discountPercentage": 12.06,
+      "rating": 3.94,
+      "stock": 50,
+      "tags": ["beverages"],
+      "sku": "GRO-BRD-JUI-029",
+      "weight": 1,
+      "dimensions": {
+        "width": 18.56,
+        "height": 21.46,
+        "depth": 28.02
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Excellent quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Bella Grant",
+          "reviewerEmail": "bella.grant@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Awesome product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Aria Flores",
+          "reviewerEmail": "aria.flores@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 25,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "6936112580956",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/juice/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp"
+    },
+    {
+      "id": 30,
+      "title": "Kiwi",
+      "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+      "category": "groceries",
+      "price": 2.49,
+      "discountPercentage": 15.22,
+      "rating": 4.93,
+      "stock": 99,
+      "tags": ["fruits"],
+      "sku": "GRO-BRD-KIW-030",
+      "weight": 5,
+      "dimensions": {
+        "width": 19.4,
+        "height": 18.67,
+        "depth": 17.13
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Emily Brown",
+          "reviewerEmail": "emily.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Would not buy again!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Morales",
+          "reviewerEmail": "jackson.morales@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Nora Russell",
+          "reviewerEmail": "nora.russell@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 30,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "2530169917252",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
+    },
+    {
+      "id": 31,
+      "title": "Hydrating Facial Serum",
+      "description": "This lightweight facial serum delivers intense hydration with hyaluronic acid and vitamin E. Perfect for all skin types to achieve a radiant glow.",
+      "category": "skincare",
+      "price": 24.99,
+      "discountPercentage": 15.25,
+      "rating": 4.82,
+      "stock": 56,
+      "tags": ["skincare", "serum", "face"],
+      "brand": "Glow Recipe",
+      "sku": "SKI-GLO-SER-004",
+      "weight": 2,
+      "dimensions": {
+        "width": 5.2,
+        "height": 12.4,
+        "depth": 5.2
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "My skin has never been better!",
+          "date": "2025-05-15T11:22:33.044Z",
+          "reviewerName": "Sophia Martinez",
+          "reviewerEmail": "sophia.martinez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-10T08:15:22.103Z",
+        "updatedAt": "2025-05-01T14:30:45.207Z",
+        "barcode": "6473829102837",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 32,
+      "title": "Wireless Bluetooth Earbuds",
+      "description": "Premium wireless earbuds with active noise cancellation and 24-hour battery life. Crystal clear sound quality with comfortable fit for all-day wear.",
+      "category": "electronics",
+      "price": 129.99,
+      "discountPercentage": 22.75,
+      "rating": 4.65,
+      "stock": 28,
+      "tags": ["electronics", "audio", "wireless"],
+      "brand": "SoundCore",
+      "sku": "ELE-SOU-EAR-005",
+      "weight": 56,
+      "dimensions": {
+        "width": 6.5,
+        "height": 4.3,
+        "depth": 3.2
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships next business day",
+      "availabilityStatus": "Limited Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Best earbuds I've ever owned!",
+          "date": "2025-03-22T16:45:12.331Z",
+          "reviewerName": "Michael Chen",
+          "reviewerEmail": "michael.chen@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great sound but battery could be better",
+          "date": "2025-04-05T09:12:44.112Z",
+          "reviewerName": "Emma Wilson",
+          "reviewerEmail": "emma.wilson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "45 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-02-18T10:20:15.428Z",
+        "updatedAt": "2025-05-10T11:05:33.719Z",
+        "barcode": "8927461836452",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 33,
+      "title": "Organic Cotton Bath Towel Set",
+      "description": "Premium set of 4 organic cotton bath towels with superior absorbency. Luxuriously soft and eco-friendly, perfect for spa-like experience at home.",
+      "category": "home",
+      "price": 49.95,
+      "discountPercentage": 12.5,
+      "rating": 4.92,
+      "stock": 42,
+      "tags": ["home", "bath", "organic"],
+      "brand": "CottonCloud",
+      "sku": "HOM-COT-TOW-006",
+      "weight": 1200,
+      "dimensions": {
+        "width": 30,
+        "height": 60,
+        "depth": 8
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-7 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Extremely soft and absorbent!",
+          "date": "2025-04-28T13:22:11.532Z",
+          "reviewerName": "Olivia Thompson",
+          "reviewerEmail": "olivia.thompson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Worth every penny!",
+          "date": "2025-05-02T17:33:44.621Z",
+          "reviewerName": "Daniel Kim",
+          "reviewerEmail": "daniel.kim@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-15T09:10:25.336Z",
+        "updatedAt": "2025-05-12T08:45:22.114Z",
+        "barcode": "5738291047562",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 34,
+      "title": "Stainless Steel Water Bottle",
+      "description": "Double-walled insulated stainless steel water bottle keeps drinks cold for 24 hours or hot for 12 hours. Leak-proof design with powder-coated finish.",
+      "category": "kitchen",
+      "price": 29.99,
+      "discountPercentage": 5.0,
+      "rating": 4.78,
+      "stock": 75,
+      "tags": ["kitchen", "hydration", "eco-friendly"],
+      "brand": "HydroFlask",
+      "sku": "KIT-HYD-BOT-007",
+      "weight": 380,
+      "dimensions": {
+        "width": 8,
+        "height": 25,
+        "depth": 8
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Keeps ice frozen all day!",
+          "date": "2025-01-10T10:15:33.442Z",
+          "reviewerName": "Nathan Brooks",
+          "reviewerEmail": "nathan.brooks@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great quality but heavy",
+          "date": "2025-02-22T14:25:11.335Z",
+          "reviewerName": "Ava Garcia",
+          "reviewerEmail": "ava.garcia@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-12-05T08:30:15.227Z",
+        "updatedAt": "2025-05-08T09:12:43.556Z",
+        "barcode": "4829105736284",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 35,
+      "title": "Yoga Mat with Alignment Lines",
+      "description": "Premium eco-friendly yoga mat with non-slip surface and alignment markers for perfect poses. Extra thick for joint comfort during workouts.",
+      "category": "fitness",
+      "price": 59.99,
+      "discountPercentage": 20.0,
+      "rating": 4.85,
+      "stock": 31,
+      "tags": ["fitness", "yoga", "exercise"],
+      "brand": "Gaiam",
+      "sku": "FIT-GAI-MAT-008",
+      "weight": 2200,
+      "dimensions": {
+        "width": 61,
+        "height": 173,
+        "depth": 0.6
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 1-2 weeks",
+      "availabilityStatus": "Pre-Order",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for my daily practice!",
+          "date": "2025-03-18T08:12:55.663Z",
+          "reviewerName": "Isabella Rodriguez",
+          "reviewerEmail": "isabella.rodriguez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-02-28T11:45:33.118Z",
+        "updatedAt": "2025-05-05T16:22:11.447Z",
+        "barcode": "7392018465721",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 36,
+      "title": "Wireless Charging Stand",
+      "description": "Fast wireless charging stand compatible with all Qi-enabled devices. Adjustable viewing angle perfect for nightstand or desk use.",
+      "category": "electronics",
+      "price": 34.95,
+      "discountPercentage": 10.25,
+      "rating": 4.45,
+      "stock": 63,
+      "tags": ["electronics", "charging", "accessories"],
+      "brand": "Belkin",
+      "sku": "ELE-BEL-CHA-009",
+      "weight": 180,
+      "dimensions": {
+        "width": 10.5,
+        "height": 15.2,
+        "depth": 8.7
+      },
+      "warrantyInformation": "18 months warranty",
+      "shippingInformation": "Ships in 1 business day",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Works great with my iPhone",
+          "date": "2025-04-02T12:33:22.551Z",
+          "reviewerName": "Ethan Parker",
+          "reviewerEmail": "ethan.parker@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Charging speed could be faster",
+          "date": "2025-04-15T09:45:33.772Z",
+          "reviewerName": "Mia Adams",
+          "reviewerEmail": "mia.adams@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-01-20T14:22:11.336Z",
+        "updatedAt": "2025-05-01T10:15:43.225Z",
+        "barcode": "6284739102853",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 37,
+      "title": "Vitamin C Brightening Serum",
+      "description": "Potent vitamin C serum with ferulic acid to brighten skin tone and reduce appearance of dark spots. Antioxidant-rich formula protects against environmental damage.",
+      "category": "skincare",
+      "price": 32.5,
+      "discountPercentage": 15.75,
+      "rating": 4.91,
+      "stock": 47,
+      "tags": ["skincare", "serum", "anti-aging"],
+      "brand": "Paula's Choice",
+      "sku": "SKI-PAU-SER-010",
+      "weight": 1,
+      "dimensions": {
+        "width": 3.8,
+        "height": 12.1,
+        "depth": 3.8
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 2-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Faded my sunspots in 2 weeks!",
+          "date": "2025-03-05T15:22:44.112Z",
+          "reviewerName": "Charlotte Lee",
+          "reviewerEmail": "charlotte.lee@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Holy grail product!",
+          "date": "2025-04-12T10:33:55.663Z",
+          "reviewerName": "Benjamin Scott",
+          "reviewerEmail": "benjamin.scott@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-02-10T09:15:22.447Z",
+        "updatedAt": "2025-05-03T14:22:33.118Z",
+        "barcode": "5738291047563",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 38,
+      "title": "Air Fryer with Digital Display",
+      "description": "5.8-quart digital air fryer with 7 cooking presets and rapid air circulation technology. Cooks food faster with less oil than traditional frying methods.",
+      "category": "kitchen",
+      "price": 89.99,
+      "discountPercentage": 25.5,
+      "rating": 4.72,
+      "stock": 18,
+      "tags": ["kitchen", "appliance", "air fryer"],
+      "brand": "Ninja",
+      "sku": "KIT-NIN-FRY-011",
+      "weight": 5200,
+      "dimensions": {
+        "width": 33,
+        "height": 35.6,
+        "depth": 31.8
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 5-7 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Game changer for healthy cooking!",
+          "date": "2025-02-28T17:22:11.335Z",
+          "reviewerName": "William Turner",
+          "reviewerEmail": "william.turner@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Takes some getting used to",
+          "date": "2025-03-15T12:45:22.774Z",
+          "reviewerName": "Harper King",
+          "reviewerEmail": "harper.king@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-01-05T10:30:15.663Z",
+        "updatedAt": "2025-05-10T09:12:33.442Z",
+        "barcode": "4829375610283",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 39,
+      "title": "Adjustable Dumbbell Set",
+      "description": "Space-saving adjustable dumbbell set with quick-change weight system. Range from 5-50 lbs in 5 lb increments for versatile strength training.",
+      "category": "fitness",
+      "price": 299.99,
+      "discountPercentage": 10.0,
+      "rating": 4.88,
+      "stock": 9,
+      "tags": ["fitness", "weights", "home gym"],
+      "brand": "Bowflex",
+      "sku": "FIT-BOW-DUM-012",
+      "weight": 22680,
+      "dimensions": {
+        "width": 41.9,
+        "height": 33,
+        "depth": 27.9
+      },
+      "warrantyInformation": "5 years warranty",
+      "shippingInformation": "Ships in 2-3 weeks",
+      "availabilityStatus": "Backordered",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for home workouts",
+          "date": "2025-01-15T14:22:33.112Z",
+          "reviewerName": "James Wilson",
+          "reviewerEmail": "james.wilson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Worth the investment",
+          "date": "2025-02-20T10:15:44.553Z",
+          "reviewerName": "Amelia Green",
+          "reviewerEmail": "amelia.green@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-12-10T08:45:22.774Z",
+        "updatedAt": "2025-05-05T11:22:15.336Z",
+        "barcode": "5738291047564",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 40,
+      "title": "Noise Cancelling Headphones",
+      "description": "Premium over-ear headphones with active noise cancellation and 30-hour battery life. Crystal clear audio with deep bass response.",
+      "category": "electronics",
+      "price": 349.99,
+      "discountPercentage": 18.75,
+      "rating": 4.95,
+      "stock": 14,
+      "tags": ["electronics", "audio", "headphones"],
+      "brand": "Sony",
+      "sku": "ELE-SON-HEA-013",
+      "weight": 254,
+      "dimensions": {
+        "width": 18.5,
+        "height": 19.3,
+        "depth": 7.9
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships next business day",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Best headphones I've ever used",
+          "date": "2025-03-10T11:22:33.442Z",
+          "reviewerName": "Lucas Harris",
+          "reviewerEmail": "lucas.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Worth every penny for the noise cancellation",
+          "date": "2025-04-05T15:33:44.772Z",
+          "reviewerName": "Evelyn Martinez",
+          "reviewerEmail": "evelyn.martinez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "45 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-01-20T10:15:33.118Z",
+        "updatedAt": "2025-05-08T09:22:11.335Z",
+        "barcode": "4829105736285",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 41,
+      "title": "Memory Foam Pillow",
+      "description": "Premium contour memory foam pillow provides optimal support for head and neck. Hypoallergenic and breathable cover keeps you cool all night.",
+      "category": "home",
+      "price": 59.95,
+      "discountPercentage": 12.25,
+      "rating": 4.65,
+      "stock": 37,
+      "tags": ["home", "bedding", "sleep"],
+      "brand": "Tempur-Pedic",
+      "sku": "HOM-TEM-PIL-014",
+      "weight": 1200,
+      "dimensions": {
+        "width": 50,
+        "height": 30,
+        "depth": 12
+      },
+      "warrantyInformation": "3 years warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Solved my neck pain issues",
+          "date": "2025-02-15T09:12:33.552Z",
+          "reviewerName": "Henry Baker",
+          "reviewerEmail": "henry.baker@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Takes some getting used to",
+          "date": "2025-03-22T14:45:22.663Z",
+          "reviewerName": "Scarlett Adams",
+          "reviewerEmail": "scarlett.adams@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-01-10T08:30:15.227Z",
+        "updatedAt": "2025-05-01T11:15:43.336Z",
+        "barcode": "5738291047565",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 42,
+      "title": "Retinol Night Cream",
+      "description": "Advanced anti-aging night cream with encapsulated retinol to reduce wrinkles and improve skin texture. Formulated with hyaluronic acid for intense hydration.",
+      "category": "skincare",
+      "price": 42.99,
+      "discountPercentage": 10.5,
+      "rating": 4.78,
+      "stock": 52,
+      "tags": ["skincare", "anti-aging", "moisturizer"],
+      "brand": "CeraVe",
+      "sku": "SKI-CER-CRE-015",
+      "weight": 1.7,
+      "dimensions": {
+        "width": 6,
+        "height": 6,
+        "depth": 6
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Visible results in 2 weeks!",
+          "date": "2025-03-05T12:22:44.112Z",
+          "reviewerName": "Aria Cooper",
+          "reviewerEmail": "aria.cooper@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great but causes slight irritation",
+          "date": "2025-04-10T15:33:55.663Z",
+          "reviewerName": "Jackson Reed",
+          "reviewerEmail": "jackson.reed@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-02-01T09:15:22.447Z",
+        "updatedAt": "2025-05-05T14:22:33.118Z",
+        "barcode": "4829105736286",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 43,
+      "title": "Smart LED Light Bulbs",
+      "description": "WiFi enabled smart LED bulbs with 16 million colors. Control with smartphone app or voice commands via Alexa/Google Assistant. Schedule lighting scenes and routines.",
+      "category": "electronics",
+      "price": 49.99,
+      "discountPercentage": 15.0,
+      "rating": 4.62,
+      "stock": 68,
+      "tags": ["electronics", "smart home", "lighting"],
+      "brand": "Philips Hue",
+      "sku": "ELE-PHI-BUL-016",
+      "weight": 200,
+      "dimensions": {
+        "width": 6.2,
+        "height": 11.4,
+        "depth": 6.2
+      },
+      "warrantyInformation": "3 years warranty",
+      "shippingInformation": "Ships in 1-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Completely transformed my home lighting",
+          "date": "2025-02-20T10:15:33.442Z",
+          "reviewerName": "Liam Nelson",
+          "reviewerEmail": "liam.nelson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "App could be more intuitive",
+          "date": "2025-03-15T14:22:44.772Z",
+          "reviewerName": "Zoe Parker",
+          "reviewerEmail": "zoe.parker@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-01-05T08:30:15.227Z",
+        "updatedAt": "2025-05-01T11:15:43.336Z",
+        "barcode": "5738291047566",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 44,
+      "title": "Cast Iron Skillet",
+      "description": "Pre-seasoned cast iron skillet provides even heat distribution and retention. Perfect for searing, frying, baking and more. Naturally non-stick when properly cared for.",
+      "category": "kitchen",
+      "price": 39.99,
+      "discountPercentage": 0.0,
+      "rating": 4.95,
+      "stock": 24,
+      "tags": ["kitchen", "cookware", "cast iron"],
+      "brand": "Lodge",
+      "sku": "KIT-LOD-SKI-017",
+      "weight": 3400,
+      "dimensions": {
+        "width": 33,
+        "height": 5.1,
+        "depth": 33
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 5-7 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Will last a lifetime!",
+          "date": "2024-12-15T12:22:33.552Z",
+          "reviewerName": "Noah Carter",
+          "reviewerEmail": "noah.carter@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Perfect for steaks and cornbread",
+          "date": "2025-01-20T15:33:44.663Z",
+          "reviewerName": "Chloe Bennett",
+          "reviewerEmail": "chloe.bennett@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-11-10T08:30:15.227Z",
+        "updatedAt": "2025-05-01T11:15:43.336Z",
+        "barcode": "4829105736287",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 45,
+      "title": "Resistance Band Set",
+      "description": "Complete set of 5 resistance bands with varying tension levels. Includes door anchor, ankle straps and exercise guide for full-body workouts anywhere.",
+      "category": "fitness",
+      "price": 29.99,
+      "discountPercentage": 17.5,
+      "rating": 4.72,
+      "stock": 83,
+      "tags": ["fitness", "exercise", "home workout"],
+      "brand": "TheraBand",
+      "sku": "FIT-THE-BAN-018",
+      "weight": 800,
+      "dimensions": {
+        "width": 25,
+        "height": 15,
+        "depth": 5
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for travel workouts",
+          "date": "2025-01-10T09:12:33.552Z",
+          "reviewerName": "Elijah Turner",
+          "reviewerEmail": "elijah.turner@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great quality but could include more exercises",
+          "date": "2025-02-15T14:45:22.663Z",
+          "reviewerName": "Madison Foster",
+          "reviewerEmail": "madison.foster@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-12-05T08:30:15.227Z",
+        "updatedAt": "2025-05-01T11:15:43.336Z",
+        "barcode": "5738291047567",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 46,
+      "title": "Electric Toothbrush",
+      "description": "Advanced electric toothbrush with 3 cleaning modes and pressure sensor. Removes up to 100% more plaque than manual brushing for healthier gums.",
+      "category": "health",
+      "price": 79.99,
+      "discountPercentage": 20.25,
+      "rating": 4.85,
+      "stock": 37,
+      "tags": ["health", "oral care", "toothbrush"],
+      "brand": "Oral-B",
+      "sku": "HEA-ORA-TOO-019",
+      "weight": 300,
+      "dimensions": {
+        "width": 3.5,
+        "height": 22.5,
+        "depth": 3.5
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 1-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "My dentist noticed the difference!",
+          "date": "2025-02-05T11:22:33.552Z",
+          "reviewerName": "Logan Hughes",
+          "reviewerEmail": "logan.hughes@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Worth the investment for dental health",
+          "date": "2025-03-12T15:33:44.663Z",
+          "reviewerName": "Lily Patterson",
+          "reviewerEmail": "lily.patterson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-01-01T08:30:15.227Z",
+        "updatedAt": "2025-05-01T11:15:43.336Z",
+        "barcode": "4829105736288",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 47,
+      "title": "Blender with Travel Cups",
+      "description": "High-speed blender with 600W motor and BPA-free travel cups. Perfect for smoothies, shakes and food prep on the go. Easy one-touch operation.",
+      "category": "kitchen",
+      "price": 59.99,
+      "discountPercentage": 15.75,
+      "rating": 4.58,
+      "stock": 42,
+      "tags": ["kitchen", "appliance", "blender"],
+      "brand": "NutriBullet",
+      "sku": "KIT-NUT-BLE-020",
+      "weight": 3500,
+      "dimensions": {
+        "width": 16.5,
+        "height": 33,
+        "depth": 16.5
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Makes perfect smoothies every time",
+          "date": "2025-01-15T10:12:33.552Z",
+          "reviewerName": "Caleb Rivera",
+          "reviewerEmail": "caleb.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Powerful but a bit noisy",
+          "date": "2025-02-20T14:45:22.663Z",
+          "reviewerName": "Hannah Brooks",
+          "reviewerEmail": "hannah.brooks@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-12-10T08:30:15.227Z",
+        "updatedAt": "2025-05-01T11:15:43.336Z",
+        "barcode": "5738291047568",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 48,
+      "title": "Wireless Gaming Mouse",
+      "description": "High-performance wireless gaming mouse with 16000 DPI optical sensor and customizable RGB lighting. Ultra-lightweight design for competitive gaming.",
+      "category": "electronics",
+      "price": 89.99,
+      "discountPercentage": 12.5,
+      "rating": 4.88,
+      "stock": 16,
+      "tags": ["electronics", "gaming", "accessories"],
+      "brand": "Logitech G",
+      "sku": "ELE-LOG-MOU-021",
+      "weight": 99,
+      "dimensions": {
+        "width": 6.2,
+        "height": 12.4,
+        "depth": 3.9
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships next business day",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for FPS games",
+          "date": "2025-02-10T12:22:33.552Z",
+          "reviewerName": "Ryan Cooper",
+          "reviewerEmail": "ryan.cooper@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Best wireless mouse I've used",
+          "date": "2025-03-15T15:33:44.663Z",
+          "reviewerName": "Aubrey Diaz",
+          "reviewerEmail": "aubrey.diaz@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-01-05T08:30:15.227Z",
+        "updatedAt": "2025-05-01T11:15:43.336Z",
+        "barcode": "4829105736289",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 49,
+      "title": "Yoga Block Set",
+      "description": "High-density EVA foam yoga blocks provide support and stability for yoga poses. Lightweight yet sturdy with non-slip surface for safety.",
+      "category": "fitness",
+      "price": 19.99,
+      "discountPercentage": 10.0,
+      "rating": 4.65,
+      "stock": 57,
+      "tags": ["fitness", "yoga", "accessories"],
+      "brand": "Gaiam",
+      "sku": "FIT-GAI-BLO-022",
+      "weight": 800,
+      "dimensions": {
+        "width": 23,
+        "height": 15,
+        "depth": 7.6
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great for beginners",
+          "date": "2025-01-20T10:12:33.552Z",
+          "reviewerName": "Natalie Price",
+          "reviewerEmail": "natalie.price@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Perfect density - not too hard or soft",
+          "date": "2025-02-25T14:45:22.663Z",
+          "reviewerName": "Gabriel Simmons",
+          "reviewerEmail": "gabriel.simmons@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-12-15T08:30:15.227Z",
+        "updatedAt": "2025-05-01T11:15:43.336Z",
+        "barcode": "5738291047569",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 50,
+      "title": "Ceramic Cookware Set",
+      "description": "10-piece non-toxic ceramic cookware set with stay-cool handles. PFOA-free ceramic coating provides healthy cooking without harmful chemicals.",
+      "category": "kitchen",
+      "price": 199.99,
+      "discountPercentage": 25.0,
+      "rating": 4.82,
+      "stock": 12,
+      "tags": ["kitchen", "cookware", "non-toxic"],
+      "brand": "GreenPan",
+      "sku": "KIT-GRE-COO-023",
+      "weight": 15000,
+      "dimensions": {
+        "width": 45,
+        "height": 35,
+        "depth": 30
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 7-10 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Cookware that's actually healthy",
+          "date": "2025-01-05T12:22:33.552Z",
+          "reviewerName": "Ethan Foster",
+          "reviewerEmail": "ethan.foster@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great but handles get hot despite claims",
+          "date": "2025-02-10T15:33:44.663Z",
+          "reviewerName": "Victoria Bryant",
+          "reviewerEmail": "victoria.bryant@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-11-20T08:30:15.227Z",
+        "updatedAt": "2025-05-01T11:15:43.336Z",
+        "barcode": "4829105736290",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 51,
+      "title": "Professional Hair Dryer",
+      "description": "Ionic hair dryer with ceramic technology for faster drying and reduced frizz. 3 heat/speed settings with cool shot button for salon-quality styling at home.",
+      "category": "beauty",
+      "price": 79.99,
+      "discountPercentage": 15.25,
+      "rating": 4.72,
+      "stock": 28,
+      "tags": ["beauty", "haircare", "styling"],
+      "brand": "Dyson",
+      "sku": "BEA-DYS-DRY-051",
+      "weight": 870,
+      "dimensions": {
+        "width": 10.2,
+        "height": 25.4,
+        "depth": 18.9
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 1-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Dries hair in half the time!",
+          "date": "2025-06-01T14:22:33.112Z",
+          "reviewerName": "Sophie Turner",
+          "reviewerEmail": "sophie.turner@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-05-15T09:12:44.225Z",
+        "updatedAt": "2025-06-10T08:45:22.774Z",
+        "barcode": "5738291047570",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 52,
+      "title": "Smart Fitness Watch",
+      "description": "Waterproof fitness tracker with heart rate monitor, sleep tracking and 20 sports modes. 10-day battery life with always-on AMOLED display.",
+      "category": "wearables",
+      "price": 149.99,
+      "discountPercentage": 18.75,
+      "rating": 4.88,
+      "stock": 19,
+      "tags": ["wearables", "fitness", "smartwatch"],
+      "brand": "Garmin",
+      "sku": "WEA-GAR-WAT-052",
+      "weight": 48,
+      "dimensions": {
+        "width": 4.5,
+        "height": 4.5,
+        "depth": 1.2
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships next business day",
+      "availabilityStatus": "Limited Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Accurate health metrics",
+          "date": "2025-05-20T11:33:44.552Z",
+          "reviewerName": "Daniel Wu",
+          "reviewerEmail": "daniel.wu@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "45 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-28T10:22:11.336Z",
+        "updatedAt": "2025-06-12T14:30:15.663Z",
+        "barcode": "4829105736291",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 53,
+      "title": "Portable Espresso Maker",
+      "description": "Compact manual espresso machine works without electricity. Creates 15-bar pressure for authentic espresso anywhere. Includes carrying case.",
+      "category": "kitchen",
+      "price": 59.95,
+      "discountPercentage": 5.5,
+      "rating": 4.65,
+      "stock": 37,
+      "tags": ["kitchen", "coffee", "travel"],
+      "brand": "Wacaco",
+      "sku": "KIT-WAC-ESP-053",
+      "weight": 360,
+      "dimensions": {
+        "width": 7.5,
+        "height": 15.8,
+        "depth": 7.5
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great for camping trips",
+          "date": "2025-05-10T09:45:22.441Z",
+          "reviewerName": "Emma Watson",
+          "reviewerEmail": "emma.watson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-15T08:30:15.227Z",
+        "updatedAt": "2025-06-05T11:15:43.336Z",
+        "barcode": "5738291047571",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 54,
+      "title": "Acne Treatment Kit",
+      "description": "3-step acne treatment system with salicylic acid and tea tree oil. Clinically proven to reduce breakouts in 4 weeks. Suitable for sensitive skin.",
+      "category": "skincare",
+      "price": 39.99,
+      "discountPercentage": 12.25,
+      "rating": 4.52,
+      "stock": 64,
+      "tags": ["skincare", "acne", "treatment"],
+      "brand": "Proactiv",
+      "sku": "SKI-PRO-ACN-054",
+      "weight": 320,
+      "dimensions": {
+        "width": 12,
+        "height": 18,
+        "depth": 6
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Cleared my skin in 3 weeks!",
+          "date": "2025-05-05T16:22:33.772Z",
+          "reviewerName": "Liam Chen",
+          "reviewerEmail": "liam.chen@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-10T14:22:11.447Z",
+        "updatedAt": "2025-06-08T09:12:33.118Z",
+        "barcode": "4829105736292",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 55,
+      "title": "Foldable Electric Scooter",
+      "description": "250W motor electric scooter with 15.5 mph top speed and 12-mile range. Foldable design weighs just 26 lbs for easy portability.",
+      "category": "transport",
+      "price": 299.99,
+      "discountPercentage": 20.0,
+      "rating": 4.78,
+      "stock": 8,
+      "tags": ["transport", "electric", "scooter"],
+      "brand": "Xiaomi",
+      "sku": "TRA-XIA-SCO-055",
+      "weight": 11800,
+      "dimensions": {
+        "width": 17,
+        "height": 42,
+        "depth": 108
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 2-3 weeks",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for city commuting",
+          "date": "2025-04-28T12:33:44.112Z",
+          "reviewerName": "Oliver Khan",
+          "reviewerEmail": "oliver.khan@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-20T11:45:33.663Z",
+        "updatedAt": "2025-06-05T16:22:11.447Z",
+        "barcode": "5738291047572",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 56,
+      "title": "Noise Cancelling Sleep Headphones",
+      "description": "Wireless Bluetooth headphones designed for sleep with flat speakers and noise masking technology. 10-hour battery life with ultra-soft headband.",
+      "category": "electronics",
+      "price": 89.99,
+      "discountPercentage": 15.5,
+      "rating": 4.62,
+      "stock": 42,
+      "tags": ["electronics", "sleep", "audio"],
+      "brand": "AcousticSheep",
+      "sku": "ELE-ACO-HEA-056",
+      "weight": 85,
+      "dimensions": {
+        "width": 22,
+        "height": 10,
+        "depth": 3
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Finally sleeping through the night",
+          "date": "2025-05-15T09:22:11.335Z",
+          "reviewerName": "Sophia Martinez",
+          "reviewerEmail": "sophia.martinez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-05T08:30:15.227Z",
+        "updatedAt": "2025-06-01T11:15:43.336Z",
+        "barcode": "4829105736293",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 57,
+      "title": "Collagen Peptides Powder",
+      "description": "Unflavored collagen peptides powder supports hair, skin, nails and joint health. 20g protein per serving, dissolves easily in hot or cold liquids.",
+      "category": "supplements",
+      "price": 29.99,
+      "discountPercentage": 10.0,
+      "rating": 4.85,
+      "stock": 73,
+      "tags": ["supplements", "health", "protein"],
+      "brand": "Vital Proteins",
+      "sku": "SUP-VIT-COL-057",
+      "weight": 454,
+      "dimensions": {
+        "width": 10,
+        "height": 15,
+        "depth": 10
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Improved my joint pain significantly",
+          "date": "2025-05-01T14:45:22.663Z",
+          "reviewerName": "Ethan Johnson",
+          "reviewerEmail": "ethan.johnson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-25T09:15:22.447Z",
+        "updatedAt": "2025-06-03T14:22:33.118Z",
+        "barcode": "5738291047573",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 58,
+      "title": "Smart Door Lock",
+      "description": "Keyless smart door lock with fingerprint, PIN code and app control. Auto-locks behind you and sends entry alerts to your phone.",
+      "category": "smart home",
+      "price": 199.99,
+      "discountPercentage": 12.75,
+      "rating": 4.72,
+      "stock": 14,
+      "tags": ["smart home", "security", "lock"],
+      "brand": "August",
+      "sku": "SMA-AUG-LOC-058",
+      "weight": 680,
+      "dimensions": {
+        "width": 8.9,
+        "height": 8.9,
+        "depth": 3.8
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 5-7 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Never need keys again!",
+          "date": "2025-04-20T11:22:33.552Z",
+          "reviewerName": "Michael Brown",
+          "reviewerEmail": "michael.brown@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-15T08:30:15.227Z",
+        "updatedAt": "2025-06-01T11:15:43.336Z",
+        "barcode": "4829105736294",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 59,
+      "title": "Reusable Silicone Food Bags",
+      "description": "Set of 10 leak-proof silicone food storage bags in various sizes. Dishwasher, freezer and microwave safe alternative to plastic bags.",
+      "category": "kitchen",
+      "price": 24.99,
+      "discountPercentage": 5.25,
+      "rating": 4.95,
+      "stock": 86,
+      "tags": ["kitchen", "storage", "eco-friendly"],
+      "brand": "Stasher",
+      "sku": "KIT-STA-BAG-059",
+      "weight": 450,
+      "dimensions": {
+        "width": 20,
+        "height": 25,
+        "depth": 5
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Eliminated all my plastic bag use",
+          "date": "2025-05-10T15:33:44.663Z",
+          "reviewerName": "Emma Wilson",
+          "reviewerEmail": "emma.wilson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-05T09:15:22.447Z",
+        "updatedAt": "2025-06-05T14:22:33.118Z",
+        "barcode": "5738291047574",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 60,
+      "title": "UV Sanitizer Wand",
+      "description": "Portable UV-C light sanitizer kills 99.9% of germs on surfaces in seconds. Chemical-free cleaning for phones, keyboards, hotel rooms and more.",
+      "category": "health",
+      "price": 49.99,
+      "discountPercentage": 15.0,
+      "rating": 4.58,
+      "stock": 39,
+      "tags": ["health", "sanitizer", "cleaning"],
+      "brand": "PhoneSoap",
+      "sku": "HEA-PHO-SAN-060",
+      "weight": 210,
+      "dimensions": {
+        "width": 3.8,
+        "height": 22.9,
+        "depth": 5.1
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great for travel",
+          "date": "2025-04-28T10:12:33.552Z",
+          "reviewerName": "Noah Garcia",
+          "reviewerEmail": "noah.garcia@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-20T08:30:15.227Z",
+        "updatedAt": "2025-06-01T11:15:43.336Z",
+        "barcode": "4829105736295",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 61,
+      "title": "Electric Standing Desk",
+      "description": "Height-adjustable electric standing desk with memory presets. Spacious 60 x 30 desktop with sturdy steel frame supports up to 275 lbs.",
+      "category": "furniture",
+      "price": 399.99,
+      "discountPercentage": 18.5,
+      "rating": 4.82,
+      "stock": 7,
+      "tags": ["furniture", "office", "ergonomic"],
+      "brand": "Uplift",
+      "sku": "FUR-UPL-DES-061",
+      "weight": 32000,
+      "dimensions": {
+        "width": 76,
+        "height": 64,
+        "depth": 152
+      },
+      "warrantyInformation": "10 years warranty",
+      "shippingInformation": "Ships in 2-4 weeks",
+      "availabilityStatus": "Backordered",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Life-changing for my back pain",
+          "date": "2025-04-15T14:45:22.663Z",
+          "reviewerName": "David Miller",
+          "reviewerEmail": "david.miller@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-01T09:15:22.447Z",
+        "updatedAt": "2025-06-05T14:22:33.118Z",
+        "barcode": "5738291047575",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 62,
+      "title": "Cold Brew Coffee Maker",
+      "description": "1-quart glass cold brew coffee maker with stainless steel filter. Brews smooth, low-acid coffee concentrate in 12-24 hours.",
+      "category": "kitchen",
+      "price": 34.99,
+      "discountPercentage": 8.75,
+      "rating": 4.65,
+      "stock": 53,
+      "tags": ["kitchen", "coffee", "beverage"],
+      "brand": "Toddy",
+      "sku": "KIT-TOD-BRE-062",
+      "weight": 1200,
+      "dimensions": {
+        "width": 15,
+        "height": 25,
+        "depth": 15
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect cold brew every time",
+          "date": "2025-05-05T11:22:33.552Z",
+          "reviewerName": "Sophia Chen",
+          "reviewerEmail": "sophia.chen@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-10T08:30:15.227Z",
+        "updatedAt": "2025-06-01T11:15:43.336Z",
+        "barcode": "4829105736296",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 63,
+      "title": "Biodegradable Phone Case",
+      "description": "Eco-friendly phone case made from plant-based materials. Shock-absorbent protection with compostable packaging. Fits most smartphone models.",
+      "category": "electronics",
+      "price": 19.99,
+      "discountPercentage": 10.5,
+      "rating": 4.42,
+      "stock": 94,
+      "tags": ["electronics", "phone", "eco-friendly"],
+      "brand": "Pela",
+      "sku": "ELE-PEL-CAS-063",
+      "weight": 45,
+      "dimensions": {
+        "width": 8.5,
+        "height": 16,
+        "depth": 1.2
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great protection and eco-conscious",
+          "date": "2025-04-22T09:45:22.663Z",
+          "reviewerName": "Lucas Green",
+          "reviewerEmail": "lucas.green@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-15T09:15:22.447Z",
+        "updatedAt": "2025-06-05T14:22:33.118Z",
+        "barcode": "5738291047576",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 64,
+      "title": "Aromatherapy Diffuser",
+      "description": "Ultrasonic essential oil diffuser with 7 color LED lights. 300ml capacity runs up to 10 hours with automatic shut-off.",
+      "category": "home",
+      "price": 29.99,
+      "discountPercentage": 12.25,
+      "rating": 4.78,
+      "stock": 61,
+      "tags": ["home", "aromatherapy", "wellness"],
+      "brand": "URPOWER",
+      "sku": "HOM-URP-DIF-064",
+      "weight": 380,
+      "dimensions": {
+        "width": 13,
+        "height": 13,
+        "depth": 13
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for my yoga studio",
+          "date": "2025-05-01T15:33:44.552Z",
+          "reviewerName": "Olivia Taylor",
+          "reviewerEmail": "olivia.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-05T08:30:15.227Z",
+        "updatedAt": "2025-06-01T11:15:43.336Z",
+        "barcode": "4829105736297",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 65,
+      "title": "Solar Powered Charger",
+      "description": "28W solar panel charger with dual USB ports. Waterproof and foldable design ideal for camping, hiking and emergency preparedness.",
+      "category": "electronics",
+      "price": 59.99,
+      "discountPercentage": 15.75,
+      "rating": 4.55,
+      "stock": 22,
+      "tags": ["electronics", "solar", "outdoors"],
+      "brand": "Anker",
+      "sku": "ELE-ANK-SOL-065",
+      "weight": 680,
+      "dimensions": {
+        "width": 28,
+        "height": 2,
+        "depth": 19
+      },
+      "warrantyInformation": "18 months warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Keeps my devices charged off-grid",
+          "date": "2025-04-18T12:22:33.663Z",
+          "reviewerName": "Jacob Wilson",
+          "reviewerEmail": "jacob.wilson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-10T09:15:22.447Z",
+        "updatedAt": "2025-06-05T14:22:33.118Z",
+        "barcode": "5738291047577",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 66,
+      "title": "Baby Food Maker",
+      "description": "All-in-one steamer and blender for homemade baby food. Preserves nutrients with gentle steam cooking. BPA-free components.",
+      "category": "baby",
+      "price": 89.99,
+      "discountPercentage": 20.0,
+      "rating": 4.85,
+      "stock": 17,
+      "tags": ["baby", "food", "kitchen"],
+      "brand": "Beaba",
+      "sku": "BAB-BEA-MAK-066",
+      "weight": 2900,
+      "dimensions": {
+        "width": 21,
+        "height": 31,
+        "depth": 21
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 1-2 weeks",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Made introducing solids so easy",
+          "date": "2025-04-05T14:45:22.552Z",
+          "reviewerName": "Emily Rodriguez",
+          "reviewerEmail": "emily.rodriguez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-02-28T08:30:15.227Z",
+        "updatedAt": "2025-06-01T11:15:43.336Z",
+        "barcode": "4829105736298",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 67,
+      "title": "Posture Corrector",
+      "description": "Adjustable posture corrector aligns shoulders and spine. Breathable mesh material with comfortable straps for all-day wear.",
+      "category": "health",
+      "price": 39.99,
+      "discountPercentage": 10.25,
+      "rating": 4.32,
+      "stock": 48,
+      "tags": ["health", "posture", "ergonomic"],
+      "brand": "Flexguard",
+      "sku": "HEA-FLE-POS-067",
+      "weight": 280,
+      "dimensions": {
+        "width": 25,
+        "height": 35,
+        "depth": 5
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Helped with my back pain",
+          "date": "2025-03-22T11:22:33.663Z",
+          "reviewerName": "Nathan Brooks",
+          "reviewerEmail": "nathan.brooks@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-02-15T09:15:22.447Z",
+        "updatedAt": "2025-06-05T14:22:33.118Z",
+        "barcode": "5738291047578",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 68,
+      "title": "Smart Jump Rope",
+      "description": "Bluetooth enabled jump rope tracks calories, jumps and time. Adjustable length with weighted handles for better workout.",
+      "category": "fitness",
+      "price": 49.99,
+      "discountPercentage": 12.5,
+      "rating": 4.68,
+      "stock": 33,
+      "tags": ["fitness", "workout", "smart"],
+      "brand": "Tangram",
+      "sku": "FIT-TAN-ROP-068",
+      "weight": 450,
+      "dimensions": {
+        "width": 10,
+        "height": 80,
+        "depth": 10
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Makes cardio fun with the app",
+          "date": "2025-04-10T15:33:44.552Z",
+          "reviewerName": "Ava Thompson",
+          "reviewerEmail": "ava.thompson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-05T08:30:15.227Z",
+        "updatedAt": "2025-06-01T11:15:43.336Z",
+        "barcode": "4829105736299",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 69,
+      "title": "Reusable Makeup Remover Pads",
+      "description": "Set of 20 organic cotton rounds with laundry bag. Soft and durable alternative to disposable cotton pads. Machine washable.",
+      "category": "beauty",
+      "price": 14.99,
+      "discountPercentage": 5.0,
+      "rating": 4.92,
+      "stock": 89,
+      "tags": ["beauty", "eco-friendly", "skincare"],
+      "brand": "Marley's Monsters",
+      "sku": "BEA-MAR-PAD-069",
+      "weight": 120,
+      "dimensions": {
+        "width": 15,
+        "height": 15,
+        "depth": 3
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Saved so much money and waste!",
+          "date": "2025-03-28T10:22:33.663Z",
+          "reviewerName": "Chloe Adams",
+          "reviewerEmail": "chloe.adams@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-02-20T09:15:22.447Z",
+        "updatedAt": "2025-06-05T14:22:33.118Z",
+        "barcode": "5738291047579",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 70,
+      "title": "Portable Projector",
+      "description": "Mini HD projector with 200 screen size and built-in speaker. Connects to phones, laptops and gaming consoles via HDMI or wireless casting.",
+      "category": "electronics",
+      "price": 129.99,
+      "discountPercentage": 22.5,
+      "rating": 4.45,
+      "stock": 11,
+      "tags": ["electronics", "projector", "entertainment"],
+      "brand": "Anker",
+      "sku": "ELE-ANK-PRO-070",
+      "weight": 520,
+      "dimensions": {
+        "width": 12.7,
+        "height": 11.4,
+        "depth": 4.3
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 5-7 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great for backyard movies",
+          "date": "2025-04-15T12:45:22.552Z",
+          "reviewerName": "Daniel Kim",
+          "reviewerEmail": "daniel.kim@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-10T08:30:15.227Z",
+        "updatedAt": "2025-06-01T11:15:43.336Z",
+        "barcode": "4829105736300",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 71,
+      "title": "Wireless Mechanical Keyboard",
+      "description": "RGB backlit mechanical keyboard with customizable keys and 2.4GHz wireless connection. 87-key compact design with brown switches for tactile feedback.",
+      "category": "electronics",
+      "price": 129.99,
+      "discountPercentage": 15.25,
+      "rating": 4.78,
+      "stock": 38,
+      "tags": ["electronics", "keyboard", "gaming"],
+      "brand": "Keychron",
+      "sku": "ELE-KEY-KEY-071",
+      "weight": 950,
+      "dimensions": {
+        "width": 35.6,
+        "height": 12.4,
+        "depth": 3.2
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for both work and gaming",
+          "date": "2025-06-10T11:22:33.112Z",
+          "reviewerName": "Jason Miller",
+          "reviewerEmail": "jason.miller@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-05-15T09:12:44.225Z",
+        "updatedAt": "2025-06-18T08:45:22.774Z",
+        "barcode": "5738291047580",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 72,
+      "title": "Smart Body Scale",
+      "description": "Bluetooth body composition scale that measures weight, body fat, water percentage, muscle mass and bone mass. Syncs with fitness apps.",
+      "category": "health",
+      "price": 49.99,
+      "discountPercentage": 12.75,
+      "rating": 4.62,
+      "stock": 56,
+      "tags": ["health", "fitness", "smart"],
+      "brand": "Withings",
+      "sku": "HEA-WIT-SCA-072",
+      "weight": 1800,
+      "dimensions": {
+        "width": 30,
+        "height": 30,
+        "depth": 2.5
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Accurate measurements when used consistently",
+          "date": "2025-05-28T14:45:22.441Z",
+          "reviewerName": "Sarah Johnson",
+          "reviewerEmail": "sarah.johnson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-20T08:30:15.227Z",
+        "updatedAt": "2025-06-15T11:15:43.336Z",
+        "barcode": "4829105736301",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 73,
+      "title": "Magnetic Phone Mount",
+      "description": "Car vent magnetic phone holder with strong neodymium magnets. 360° rotation for optimal viewing angles. Compatible with all smartphones.",
+      "category": "automotive",
+      "price": 19.99,
+      "discountPercentage": 5.5,
+      "rating": 4.45,
+      "stock": 124,
+      "tags": ["automotive", "phone", "accessories"],
+      "brand": "iOttie",
+      "sku": "AUT-IOT-MOU-073",
+      "weight": 120,
+      "dimensions": {
+        "width": 6.5,
+        "height": 6.5,
+        "depth": 3.8
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Holds my phone securely even on bumpy roads",
+          "date": "2025-05-15T10:33:44.552Z",
+          "reviewerName": "Michael Chen",
+          "reviewerEmail": "michael.chen@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-10T09:15:22.447Z",
+        "updatedAt": "2025-06-10T14:22:33.118Z",
+        "barcode": "5738291047581",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 74,
+      "title": "Reusable Ice Cubes",
+      "description": "Set of 12 stainless steel reusable ice cubes that chill drinks without dilution. Dishwasher safe and BPA-free alternative to traditional ice.",
+      "category": "kitchen",
+      "price": 14.99,
+      "discountPercentage": 8.25,
+      "rating": 4.32,
+      "stock": 87,
+      "tags": ["kitchen", "bar", "eco-friendly"],
+      "brand": "CoolCubes",
+      "sku": "KIT-COO-ICE-074",
+      "weight": 450,
+      "dimensions": {
+        "width": 12,
+        "height": 8,
+        "depth": 5
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great for whiskey, doesn't water it down",
+          "date": "2025-04-28T16:22:33.663Z",
+          "reviewerName": "David Wilson",
+          "reviewerEmail": "david.wilson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-15T08:30:15.227Z",
+        "updatedAt": "2025-06-05T11:15:43.336Z",
+        "barcode": "4829105736302",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 75,
+      "title": "Digital Meat Thermometer",
+      "description": "Instant-read food thermometer with backlit display. Waterproof design with foldable probe. Measures temperatures from -58°F to 572°F.",
+      "category": "kitchen",
+      "price": 24.99,
+      "discountPercentage": 10.5,
+      "rating": 4.88,
+      "stock": 63,
+      "tags": ["kitchen", "cooking", "tools"],
+      "brand": "ThermoPro",
+      "sku": "KIT-THE-THE-075",
+      "weight": 85,
+      "dimensions": {
+        "width": 1.5,
+        "height": 6,
+        "depth": 1
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 1-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfectly cooked steaks every time",
+          "date": "2025-05-05T12:45:22.552Z",
+          "reviewerName": "Emily Rodriguez",
+          "reviewerEmail": "emily.rodriguez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-01T09:15:22.447Z",
+        "updatedAt": "2025-06-08T14:22:33.118Z",
+        "barcode": "5738291047582",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 76,
+      "title": "Resistance Loop Bands",
+      "description": "Set of 5 latex-free resistance bands with different tension levels. Includes carrying bag and exercise guide for full-body workouts.",
+      "category": "fitness",
+      "price": 22.99,
+      "discountPercentage": 12.0,
+      "rating": 4.65,
+      "stock": 94,
+      "tags": ["fitness", "exercise", "home workout"],
+      "brand": "Fit Simplify",
+      "sku": "FIT-FIT-BAN-076",
+      "weight": 600,
+      "dimensions": {
+        "width": 18,
+        "height": 12,
+        "depth": 3
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great for glute activation exercises",
+          "date": "2025-04-20T09:22:11.335Z",
+          "reviewerName": "Jessica Lee",
+          "reviewerEmail": "jessica.lee@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-10T08:30:15.227Z",
+        "updatedAt": "2025-06-01T11:15:43.336Z",
+        "barcode": "4829105736303",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 77,
+      "title": "Blue Light Blocking Glasses",
+      "description": "Amber lens glasses that block 100% of blue light from screens. Reduce eye strain and improve sleep quality. Lightweight frame for all-day comfort.",
+      "category": "health",
+      "price": 29.99,
+      "discountPercentage": 15.75,
+      "rating": 4.52,
+      "stock": 78,
+      "tags": ["health", "eyes", "office"],
+      "brand": "Gamma Ray",
+      "sku": "HEA-GAM-GLA-077",
+      "weight": 45,
+      "dimensions": {
+        "width": 15,
+        "height": 5,
+        "depth": 14
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Noticeable reduction in eye fatigue",
+          "date": "2025-05-01T15:33:44.663Z",
+          "reviewerName": "Daniel Kim",
+          "reviewerEmail": "daniel.kim@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-05T09:15:22.447Z",
+        "updatedAt": "2025-06-10T14:22:33.118Z",
+        "barcode": "5738291047583",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 78,
+      "title": "Cordless Handheld Vacuum",
+      "description": "Powerful 150W motor with 30 minutes runtime. Includes crevice tool and brush attachment. Lightweight at just 2.6 lbs for easy cleaning.",
+      "category": "home",
+      "price": 79.99,
+      "discountPercentage": 20.25,
+      "rating": 4.78,
+      "stock": 22,
+      "tags": ["home", "cleaning", "vacuum"],
+      "brand": "Black+Decker",
+      "sku": "HOM-BLA-VAC-078",
+      "weight": 1200,
+      "dimensions": {
+        "width": 12,
+        "height": 45,
+        "depth": 8
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for quick cleanups and car detailing",
+          "date": "2025-04-15T11:22:33.552Z",
+          "reviewerName": "Robert Taylor",
+          "reviewerEmail": "robert.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-20T08:30:15.227Z",
+        "updatedAt": "2025-06-05T11:15:43.336Z",
+        "barcode": "4829105736304",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 79,
+      "title": "Adjustable Laptop Stand",
+      "description": "Ergonomic aluminum stand with 10 height adjustments. Improves posture and cooling for laptops up to 17 inches. Foldable for easy transport.",
+      "category": "office",
+      "price": 39.99,
+      "discountPercentage": 12.5,
+      "rating": 4.85,
+      "stock": 45,
+      "tags": ["office", "ergonomic", "accessories"],
+      "brand": "Rain Design",
+      "sku": "OFF-RAI-STD-079",
+      "weight": 850,
+      "dimensions": {
+        "width": 32,
+        "height": 4,
+        "depth": 23
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Saved my neck from constant pain",
+          "date": "2025-03-28T14:45:22.663Z",
+          "reviewerName": "Olivia Martinez",
+          "reviewerEmail": "olivia.martinez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-02-15T09:15:22.447Z",
+        "updatedAt": "2025-06-08T14:22:33.118Z",
+        "barcode": "5738291047584",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 80,
+      "title": "Smart Plant Monitor",
+      "description": "Wireless sensor that monitors soil moisture, light levels and temperature. Sends alerts to your phone when your plant needs care.",
+      "category": "garden",
+      "price": 34.99,
+      "discountPercentage": 8.75,
+      "rating": 4.42,
+      "stock": 31,
+      "tags": ["garden", "smart", "plants"],
+      "brand": "Parrot",
+      "sku": "GAR-PAR-MON-080",
+      "weight": 120,
+      "dimensions": {
+        "width": 7,
+        "height": 15,
+        "depth": 2
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Saved my fiddle leaf fig from overwatering",
+          "date": "2025-04-10T10:12:33.552Z",
+          "reviewerName": "Sophia Chen",
+          "reviewerEmail": "sophia.chen@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-05T08:30:15.227Z",
+        "updatedAt": "2025-06-01T11:15:43.336Z",
+        "barcode": "4829105736305",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 81,
+      "title": "Heated Eye Mask",
+      "description": "Microwavable eye mask with lavender scent for dry eye relief and relaxation. Soft fleece cover with adjustable strap. Stays warm for 15 minutes.",
+      "category": "health",
+      "price": 19.99,
+      "discountPercentage": 5.0,
+      "rating": 4.68,
+      "stock": 67,
+      "tags": ["health", "eyes", "relaxation"],
+      "brand": "Branson",
+      "sku": "HEA-BRA-MAS-081",
+      "weight": 180,
+      "dimensions": {
+        "width": 20,
+        "height": 10,
+        "depth": 5
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for migraine relief",
+          "date": "2025-03-22T15:33:44.552Z",
+          "reviewerName": "Emma Wilson",
+          "reviewerEmail": "emma.wilson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-02-10T09:15:22.447Z",
+        "updatedAt": "2025-06-10T14:22:33.118Z",
+        "barcode": "5738291047585",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 82,
+      "title": "Collapsible Silicone Water Bottle",
+      "description": "BPA-free silicone bottle collapses from 12oz to 2 inches tall. Leak-proof cap and carrying clip. Dishwasher safe and folds for easy storage.",
+      "category": "travel",
+      "price": 24.99,
+      "discountPercentage": 10.25,
+      "rating": 4.55,
+      "stock": 53,
+      "tags": ["travel", "hydration", "eco-friendly"],
+      "brand": "Hydaway",
+      "sku": "TRA-HYD-BOT-082",
+      "weight": 150,
+      "dimensions": {
+        "width": 8,
+        "height": 20,
+        "depth": 8
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Perfect for hiking and saving space",
+          "date": "2025-04-05T12:22:33.663Z",
+          "reviewerName": "Nathan Brooks",
+          "reviewerEmail": "nathan.brooks@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-01T08:30:15.227Z",
+        "updatedAt": "2025-06-05T11:15:43.336Z",
+        "barcode": "4829105736306",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 83,
+      "title": "Electric Wine Opener",
+      "description": "Rechargeable automatic corkscrew removes corks in seconds. Includes foil cutter and charging stand. Opens up to 30 bottles per charge.",
+      "category": "kitchen",
+      "price": 49.99,
+      "discountPercentage": 15.0,
+      "rating": 4.82,
+      "stock": 29,
+      "tags": ["kitchen", "wine", "gadget"],
+      "brand": "Oster",
+      "sku": "KIT-OST-WIN-083",
+      "weight": 450,
+      "dimensions": {
+        "width": 10,
+        "height": 20,
+        "depth": 10
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Makes hosting dinner parties so much easier",
+          "date": "2025-03-15T11:45:22.552Z",
+          "reviewerName": "Ava Thompson",
+          "reviewerEmail": "ava.thompson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-02-05T09:15:22.447Z",
+        "updatedAt": "2025-06-08T14:22:33.118Z",
+        "barcode": "5738291047586",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 84,
+      "title": "Noise Reduction Earplugs",
+      "description": "High-fidelity earplugs reduce noise levels while maintaining sound clarity. Ideal for concerts, sleeping and travel. Includes carrying case.",
+      "category": "health",
+      "price": 17.99,
+      "discountPercentage": 5.5,
+      "rating": 4.75,
+      "stock": 112,
+      "tags": ["health", "hearing", "travel"],
+      "brand": "Eargasm",
+      "sku": "HEA-EAR-EAR-084",
+      "weight": 30,
+      "dimensions": {
+        "width": 5,
+        "height": 5,
+        "depth": 2
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Saved my hearing at loud concerts",
+          "date": "2025-02-28T14:33:44.663Z",
+          "reviewerName": "Lucas Green",
+          "reviewerEmail": "lucas.green@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-01-20T08:30:15.227Z",
+        "updatedAt": "2025-06-01T11:15:43.336Z",
+        "barcode": "4829105736307",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 85,
+      "title": "Car Phone Charger",
+      "description": "Dual USB car charger with 4.8A total output. SmartIC technology detects devices for optimal charging speed. Compact design with LED indicator.",
+      "category": "automotive",
+      "price": 14.99,
+      "discountPercentage": 8.25,
+      "rating": 4.58,
+      "stock": 89,
+      "tags": ["automotive", "charging", "accessories"],
+      "brand": "Anker",
+      "sku": "AUT-ANK-CHA-085",
+      "weight": 60,
+      "dimensions": {
+        "width": 3,
+        "height": 5,
+        "depth": 3
+      },
+      "warrantyInformation": "18 months warranty",
+      "shippingInformation": "Ships in 1-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Charges my phone and tablet simultaneously",
+          "date": "2025-02-15T10:22:33.552Z",
+          "reviewerName": "Daniel Kim",
+          "reviewerEmail": "daniel.kim@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-01-10T09:15:22.447Z",
+        "updatedAt": "2025-06-10T14:22:33.118Z",
+        "barcode": "5738291047587",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 86,
+      "title": "Adjustable Dumbbell Set",
+      "description": "Space-saving adjustable dumbbell system with quick-change dial. Range from 5-52.5 lbs in 2.5 lb increments. Includes stand.",
+      "category": "fitness",
+      "price": 349.99,
+      "discountPercentage": 12.5,
+      "rating": 4.92,
+      "stock": 14,
+      "tags": ["fitness", "weights", "home gym"],
+      "brand": "Bowflex",
+      "sku": "FIT-BOW-DUM-086",
+      "weight": 22680,
+      "dimensions": {
+        "width": 41.9,
+        "height": 33,
+        "depth": 27.9
+      },
+      "warrantyInformation": "5 years warranty",
+      "shippingInformation": "Ships in 2-3 weeks",
+      "availabilityStatus": "Backordered",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Worth every penny for home workouts",
+          "date": "2025-01-28T15:45:22.663Z",
+          "reviewerName": "James Wilson",
+          "reviewerEmail": "james.wilson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-12-15T08:30:15.227Z",
+        "updatedAt": "2025-06-05T11:15:43.336Z",
+        "barcode": "4829105736308",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 87,
+      "title": "Smart Notebook",
+      "description": "Reusable notebook with companion app that digitizes handwritten notes. Includes fine-tip pen and cloud storage integration. 36 dotted pages.",
+      "category": "office",
+      "price": 34.99,
+      "discountPercentage": 10.75,
+      "rating": 4.65,
+      "stock": 47,
+      "tags": ["office", "notebook", "smart"],
+      "brand": "Rocketbook",
+      "sku": "OFF-ROC-NOT-087",
+      "weight": 450,
+      "dimensions": {
+        "width": 21,
+        "height": 29.7,
+        "depth": 1
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great for meetings and brainstorming",
+          "date": "2025-01-20T12:22:33.552Z",
+          "reviewerName": "Sophia Martinez",
+          "reviewerEmail": "sophia.martinez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-12-10T09:15:22.447Z",
+        "updatedAt": "2025-06-08T14:22:33.118Z",
+        "barcode": "5738291047588",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 88,
+      "title": "Portable Blender",
+      "description": "Personal blender with 300W motor and USB-C charging. Makes single-serve smoothies, shakes and nut butters. BPA-free Tritan cup.",
+      "category": "kitchen",
+      "price": 39.99,
+      "discountPercentage": 15.25,
+      "rating": 4.42,
+      "stock": 36,
+      "tags": ["kitchen", "blender", "travel"],
+      "brand": "NutriBullet",
+      "sku": "KIT-NUT-BLE-088",
+      "weight": 800,
+      "dimensions": {
+        "width": 8,
+        "height": 25,
+        "depth": 8
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Perfect for protein shakes on the go",
+          "date": "2025-01-05T14:33:44.663Z",
+          "reviewerName": "Michael Brown",
+          "reviewerEmail": "michael.brown@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-11-28T08:30:15.227Z",
+        "updatedAt": "2025-06-01T11:15:43.336Z",
+        "barcode": "4829105736309",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 89,
+      "title": "Sleep Headphones Headband",
+      "description": "Ultra-thin Bluetooth headphones built into soft headband. Machine washable with 10-hour battery life. Perfect for side sleepers.",
+      "category": "electronics",
+      "price": 39.99,
+      "discountPercentage": 12.0,
+      "rating": 4.68,
+      "stock": 58,
+      "tags": ["electronics", "sleep", "audio"],
+      "brand": "AcousticSheep",
+      "sku": "ELE-ACO-BAN-089",
+      "weight": 120,
+      "dimensions": {
+        "width": 10,
+        "height": 30,
+        "depth": 2
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Finally can listen to podcasts without disturbing my partner",
+          "date": "2024-12-15T11:22:33.552Z",
+          "reviewerName": "Olivia Taylor",
+          "reviewerEmail": "olivia.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-11-10T09:15:22.447Z",
+        "updatedAt": "2025-06-10T14:22:33.118Z",
+        "barcode": "5738291047589",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    },
+    {
+      "id": 90,
+      "title": "Electric Lighter",
+      "description": "USB-rechargeable plasma lighter with windproof design. No butane or fuel needed. Water-resistant and child-safe with push-button ignition.",
+      "category": "outdoors",
+      "price": 24.99,
+      "discountPercentage": 8.5,
+      "rating": 4.55,
+      "stock": 72,
+      "tags": ["outdoors", "lighter", "eco-friendly"],
+      "brand": "Tesla Coil",
+      "sku": "OUT-TES-LIG-090",
+      "weight": 85,
+      "dimensions": {
+        "width": 5,
+        "height": 10,
+        "depth": 2
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Works great for camping and candles",
+          "date": "2024-12-01T15:45:22.663Z",
+          "reviewerName": "Ethan Foster",
+          "reviewerEmail": "ethan.foster@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-10-20T08:30:15.227Z",
+        "updatedAt": "2025-06-05T11:15:43.336Z",
+        "barcode": "4829105736310",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [""],
+      "thumbnail": ""
+    }
+  ],
+  "total": 194,
+  "skip": 0,
+  "limit": 30
+}
