@@ -3,21 +3,29 @@ import { hash } from "bcrypt";
 import validator from "validator";
 import { User } from "../entity/User.entity.js";
 import { myDataSource } from "../data-source.js";
+import { authMiddleware } from "../middlewares/authMiddleware.js";
 
 const router = Router();
 const usersRepository = myDataSource.getRepository(User);
 const { isEmail } = validator
 
-router.get("/", async (req: Request, res: Response) => {
+router.get("/", authMiddleware, async (req: Request, res: Response) => {
   try {
-    const users = await usersRepository.find({
-      select: ["id", "username", "email", "createdAt"],
-      order: { createdAt: "DESC"}
+    const user = await usersRepository.findOne({
+      where: {id: req.user?.userId}
     })
 
-    console.log(`Fetched ${users.length} users`)
+    if (!user) {
+      return res.status(401).json({error: 'User not found or not registered'})
+    }
 
-    res.json(users);
+    res.json({
+      user: {
+        id: user?.id,
+        email: user?.email,
+        userName: user?.username
+      }
+    });
   } catch (err: unknown) {
     if (err instanceof Error) {
       console.error("GET users error: ", err.message);
@@ -31,7 +39,7 @@ router.get("/", async (req: Request, res: Response) => {
 
 router.post("/", async (req: Request, res: Response) => {
   try {
-    const { username, password, email } = req.body;
+    const { email, username, password, } = req.body;
 
     if (!username || !password || !email) {
       return res
@@ -98,4 +106,4 @@ router.post("/", async (req: Request, res: Response) => {
   }
 });
 
-export const  usersRouter  = router;
+export const  userDataRouter  = router;

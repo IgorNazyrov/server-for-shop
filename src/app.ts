@@ -1,6 +1,6 @@
 import express from "express";
 import cors from "cors";
-import { usersRouter } from "./routes/users.js";
+import { userDataRouter } from "./routes/userData.js";
 import { allCategoriesRouter } from "./routes/allCategories.js";
 import { allProductsRouter } from "./routes/allProducts.js";
 import { usersOrdersRouter } from "./routes/userOrders.js";
@@ -14,17 +14,24 @@ import { searchProductRouter } from "./routes/searchProducts.js";
 
 const app = express();
 
+app.use((req, res, next) => {
+  console.log(`>>> ${new Date().toISOString()} ${req.method} ${req.url}`);
+  console.log('Headers:', req.headers);
+  next();
+});
+
 app.use(express.json());
 
 app.use(
   cors({
     origin: "http://localhost:3000",
+    credentials: true
   })
 );
 
 app.use(cookieParser())
 
-app.use("/users", usersRouter);
+app.use("/userData", userDataRouter);
 app.use("/allCategories", allCategoriesRouter);
 app.use("/allProducts", allProductsRouter);
 app.use("/userOrders", usersOrdersRouter);

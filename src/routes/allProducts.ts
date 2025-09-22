@@ -11,10 +11,20 @@ const productsRepository = myDataSource.getRepository(Product);
 
 router.get("/", async (req: Request, res: Response) => {
   try {
-    const categories = req.params.categories || [];
+    const categories = req.query.categoriesNames;
     const page = Number(req.query.page) || 1;
     const limit = Number(req.query.limit) || 12;
     const offset = (page - 1) * limit;
+
+    let categoriesArray: string[] = [];
+
+    if (categories) {
+      if (Array.isArray(categories)) {
+        categoriesArray = categories as string[];
+      } else if (typeof categories === "string") {
+        categoriesArray = categories.split(",");
+      }
+    }
 
     const queryBuilder = productsRepository
       .createQueryBuilder("product")
@@ -30,27 +40,29 @@ router.get("/", async (req: Request, res: Response) => {
         "product.discountPercentage",
         "COUNT(reviews.id) as reviewsCount",
       ])
-      .groupBy("product.id, product.title, product.price, product.category, product.rating, product.images, product.thumbnail, product.discountPercentage")
+      .groupBy(
+        "product.id, product.title, product.price, product.category, product.rating, product.images, product.thumbnail, product.discountPercentage"
+      )
       .orderBy("(product.meta->>'createdAt')::TIMESTAMP", "DESC")
       .offset(offset)
-      .limit(limit)
+      .limit(limit);
 
-    if (categories.length > 0) {
-      queryBuilder.where("product.category IN (:...categories)", { 
-        categories: categories 
+    if (categoriesArray.length > 0) {
+      queryBuilder.where("product.category IN (:...categories)", {
+        categories: categoriesArray,
       });
     }
 
-    const products: NotFullProducts = await queryBuilder.getRawMany()
+    const products: NotFullProducts = await queryBuilder.getRawMany();
 
-    const countQueryBuilder = productsRepository.createQueryBuilder("product")
+    const countQueryBuilder = productsRepository.createQueryBuilder("product");
 
-    const totalCount = await countQueryBuilder.getCount()
+    const totalCount = await countQueryBuilder.getCount();
 
     const productsWithCount = products.map((product) => ({
       ...product,
-      reviewsCount: parseInt(product.reviewsCount) || 0
-    }))
+      reviewsCount: parseInt(product.reviewsCount) || 0,
+    }));
 
     res.json({
       data: productsWithCount,

@@ -21,8 +21,8 @@ export const authMiddleware = (
   }
 
   if (!process.env.JWT_SECRET) {
-    console.error("JWT_SECRET не настроен");
-    return res.status(500).json({ error: "Ошибка сервера" });
+    console.error("JWT_SECRET not configured");
+    return res.status(500).json({ error: "Error server" });
   }
 
   try {

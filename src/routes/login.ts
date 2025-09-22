@@ -7,19 +7,31 @@ import jwt from "jsonwebtoken";
 const router = Router();
 const { sign } = jwt;
 
+router.get("/", async (req: Request, res: Response) => {
+  try {
+    
+  } catch(err) {
+
+  }
+})
+
 router.post("/", async (req: Request, res: Response) => {
   try {
+    console.log('Request:', req.body)
+    
     const { email, password } = req.body;
+    
+    console.log('email and password:', email, password)
 
     if (!email || !password) {
-      res.status(400).json({ error: "Email and password are required!" });
+      return res.status(400).json({ error: "Email and password are required!" });
     }
 
     const { rows } = await pool.query(POST_LOGIN, [email]);
     const user = rows[0];
 
     if (!user) {
-      res.status(401).json({ error: "Incorrent email or password" });
+      return res.status(401).json({ error: "Incorrent email or password" });
     }
 
     const isMatch = await bcrypt.compare(password, user.password_hash);
@@ -41,7 +53,7 @@ router.post("/", async (req: Request, res: Response) => {
       maxAge: 259200000
     })
 
-    res.json({
+    return res.json({
       user: {
         id: user.id,
         email: user.email,
