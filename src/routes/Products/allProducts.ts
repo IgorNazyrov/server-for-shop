@@ -1,10 +1,8 @@
 import { Router, Request, Response } from "express";
-import pool from "../db/index.js";
-import { POST_PRODUCT } from "../db/SQL-queries/products/post_product.js";
-import { authMiddleware } from "../middlewares/authMiddleware.js";
-import { myDataSource } from "../data-source.js";
-import { Product } from "../entity/Product.entity.js";
-import { NotFullProducts } from "../types/notFullProduct.js";
+import { authMiddleware } from "../../middlewares/authMiddleware.js";
+import { myDataSource } from "../../data-source.js";
+import { Product } from "../../entity/Product.entity.js";
+import { NotFullProducts } from "../../types/notFullProduct.js";
 
 const router = Router();
 const productsRepository = myDataSource.getRepository(Product);
@@ -114,33 +112,36 @@ router.post("/", authMiddleware, async (req: Request, res: Response) => {
       return res
         .status(400)
         .json({ error: "Title, price and stock are required" });
+    } else {
+      await productsRepository.save(req.body)
     }
 
-    const { rows } = await pool.query(POST_PRODUCT, [
-      title,
-      description,
-      price,
-      category,
-      dicount_Percentage,
-      rating,
-      stock,
-      tags,
-      brand,
-      sku,
-      weight,
-      dimensions,
-      waranty_information,
-      shipping_information,
-      availability_status,
-      return_policy,
-      minimum_order_quanity,
-      meta,
-      images,
-      thumbnail,
-      seller_id,
-    ]);
+    // const { rows } = await pool.query(POST_PRODUCT, [
+    //   title,
+    //   description,
+    //   price,
+    //   category,
+    //   dicount_Percentage,
+    //   rating,
+    //   stock,
+    //   tags,
+    //   brand,
+    //   sku,
+    //   weight,
+    //   dimensions,
+    //   waranty_information,
+    //   shipping_information,
+    //   availability_status,
+    //   return_policy,
+    //   minimum_order_quanity,
+    //   meta,
+    //   images,
+    //   thumbnail,
+    //   seller_id,
+    // ]);
 
-    res.status(201).json(rows[0]);
+    // res.status(201).json(rows[0]);
+    res.status(201).json(req.body);
   } catch (err: unknown) {
     const errorMessage = err instanceof Error ? err.message : "Database error";
 

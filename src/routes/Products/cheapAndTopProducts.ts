@@ -1,7 +1,7 @@
 import { Router, Request, Response } from "express";
-import { myDataSource } from "../data-source.js";
-import { Product } from "../entity/Product.entity.js";
-import { NotFullProducts } from "../types/notFullProduct.js";
+import { myDataSource } from "../../data-source.js";
+import { Product } from "../../entity/Product.entity.js";
+import { NotFullProducts } from "../../types/notFullProduct.js";
 
 const router = Router();
 const productsRepository = myDataSource.getRepository(Product);

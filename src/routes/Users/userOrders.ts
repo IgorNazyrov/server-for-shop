@@ -1,9 +1,9 @@
 import { Router, Request, Response } from "express";
-import pool from "../db/index.js";
+import pool from "../../db/index.js";
 import {
   GET_ORDERS,
   GET_ORDERS_WITH_ITEMS,
-} from "../db/SQL-queries/orders/get_orders.js";
+} from "../../db/SQL-queries/orders/get_orders.js";
 
 const router = Router();
 
@@ -38,6 +38,18 @@ router.get("/", async (req: Request, res: Response) => {
       });
     }
   }
+});
+
+router.post("/", async (req: Request, res: Response) => {
+  try {
+    const user_id = req.body.user_id;
+
+    if (!user_id || isNaN(Number(user_id))) {
+      return res.status(400).json({ error: "Invalid user ID" });
+    }
+
+    
+  } catch (err) {}
 });
 
 export const usersOrdersRouter = router;

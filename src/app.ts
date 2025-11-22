@@ -1,16 +1,16 @@
 import express from "express";
 import cors from "cors";
-import { userDataRouter } from "./routes/userData.js";
+import { userDataRouter } from "./routes/Users/userData.js";
 import { allCategoriesRouter } from "./routes/allCategories.js";
 import { allProductsRouter } from "./routes/allProducts.js";
-import { usersOrdersRouter } from "./routes/userOrders.js";
+import { usersOrdersRouter } from "./routes/Users/userOrders.js";
 import { productReviewsRouter } from "./routes/productReviews.js";
-import { loginRouter } from "./routes/login.js";
+import { loginRouter } from "./routes/Users/login.js";
 import { productByIdRouter } from "./routes/productById.js";
 import { cheapAndTopProductsRouter } from "./routes/cheapAndTopProducts.js";
 import "dotenv/config";
 import cookieParser from "cookie-parser";
-import { searchProductRouter } from "./routes/searchProducts.js";
+import { searchProductRouter } from "./routes/Products/searchProducts.js";
 
 const app = express();
 

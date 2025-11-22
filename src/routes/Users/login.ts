@@ -1,11 +1,12 @@
 import { Router, Request, Response } from "express";
-import pool from "../db/index.js";
-import { POST_LOGIN } from "../db/SQL-queries/login/post_login.js";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
+import { myDataSource } from "../../data-source.js";
+import { User } from "../../entity/User.entity.js";
 
 const router = Router();
 const { sign } = jwt;
+const usersRepository = myDataSource.getRepository(User)
 
 router.get("/", async (req: Request, res: Response) => {
   try {
@@ -17,24 +18,26 @@ router.get("/", async (req: Request, res: Response) => {
 
 router.post("/", async (req: Request, res: Response) => {
   try {
-    console.log('Request:', req.body)
+    // console.log('Request:', req.body)
     
     const { email, password } = req.body;
     
-    console.log('email and password:', email, password)
+    // console.log('email and password:', email, password)
 
     if (!email || !password) {
       return res.status(400).json({ error: "Email and password are required!" });
     }
 
-    const { rows } = await pool.query(POST_LOGIN, [email]);
-    const user = rows[0];
+    // const { rows } = await pool.query(POST_LOGIN, [email]);
+    // const user = rows[0];
 
+    const user = await usersRepository.findOneBy({where: {email}} as any)
+        // бл тут хуй его знает как сделать мейби условие смотрит на user до получения его из бд
     if (!user) {
       return res.status(401).json({ error: "Incorrent email or password" });
     }
 
-    const isMatch = await bcrypt.compare(password, user.password_hash);
+    const isMatch = await bcrypt.compare(password, user.passwordHash);
 
     if (!isMatch) {
       return res.status(401).json({ error: "Incorrent email or password" });

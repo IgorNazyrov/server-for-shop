@@ -1,6 +1,6 @@
 import { Router, Request, Response } from "express";
-import { myDataSource } from "../data-source.js";
-import { Product } from "../entity/Product.entity.js";
+import { myDataSource } from "../../data-source.js";
+import { Product } from "../../entity/Product.entity.js";
 import { ILike } from "typeorm";
 
 const router = Router();
@@ -13,8 +13,8 @@ router.get("/", async (req: Request, res: Response) => {
   const limit = Number(req.query.limit) || 12;
   const offset = (page - 1) * limit;
 
-  console.log('Request query:', req.query);
-  console.log('Request productName:', req.query.productName);
+  // console.log('Request query:', req.query);
+  // console.log('Request productName:', req.query.productName);
 
   if (!productName) {
     return res.status(400).json({ error: "Empty query in searchProduct" });

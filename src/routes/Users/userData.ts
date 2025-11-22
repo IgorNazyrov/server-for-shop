@@ -1,9 +1,9 @@
 import { Router, Request, Response } from "express";
 import { hash } from "bcrypt";
 import validator from "validator";
-import { User } from "../entity/User.entity.js";
-import { myDataSource } from "../data-source.js";
-import { authMiddleware } from "../middlewares/authMiddleware.js";
+import { User } from "../../entity/User.entity.js";
+import { myDataSource } from "../../data-source.js";
+import { authMiddleware } from "../../middlewares/authMiddleware.js";
 
 const router = Router();
 const usersRepository = myDataSource.getRepository(User);
